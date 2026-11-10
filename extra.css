@@ -1,0 +1,21 @@
+:root {
+    --ai-heading-text: 'Trebuchet MS';
+    --ai-body-text: Arial;
+
+    --ai-primary: red;
+    --ai-secondery-color: green;
+    --ai-light-text: white;
+    --ai-dark-text: black;
+
+    --ai-border-rd-1: 10px;
+    --ai-border-rd-2: 15px;
+    --ai-border-rd-3: 20px;
+    --ai-border-rd-full: 10rem;
+
+    --ai-font-h1: 60px;
+    --ai-font-h2: 30px;
+    --ai-font-p: 18px;
+    --ai-font-btn: 20px;
+    --ai-font-card: 16px;
+    --ai-font-sm: 12px;
+}
